@@ -1,4 +1,4 @@
-#Movie Collection App
+# Movie Collection App
 A modern, responsive React application for browsing, managing, and discovering movies. Built with clean architecture, reusable components, and an intuitive UI.
 
 ## Features
@@ -10,7 +10,7 @@ A modern, responsive React application for browsing, managing, and discovering m
 - Support for local storage or API backend (depending on your setup)
 - Fast, scalable, and easy to extend
 
-##Tech Stack
+## Tech Stack
 - React (Hooks + functional components)
 - JavaScript / TypeScript (whichever you’re using—can adjust)
 - CSS / Tailwind / Styled-components
