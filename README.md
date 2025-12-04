@@ -16,3 +16,59 @@ A modern, responsive React application for browsing, managing, and discovering m
 - CSS / Tailwind / Styled-components
 - Vite / Create React App (let me know which so I can refine)
 - Optional: LocalStorage, Axios, React Router
+<pre>
+  # Clone the repository
+  git clone https://github.com/xavion-git/ReactMovie
+
+  # Navigate into root the directory
+  cd Reactmovie
+
+  # Install dependencies
+  npm install
+
+  # Start the development server
+  npm run dev
+</pre>
+
+## Project Sturcture 
+<pre>
+  frontend/
+ ├── node_modules/
+ ├── public/
+ ├── src/
+ │   ├── assets/
+ │   │   └── react.svg
+ │   │
+ │   ├── components/
+ │   │   ├── MovieCard.jsx
+ │   │   └── NavBar.jsx
+ │   │
+ │   ├── contexts/
+ │   │   └── MovieContext.jsx
+ │   │
+ │   ├── css/
+ │   │   ├── App.css
+ │   │   ├── Favorites.css
+ │   │   ├── Home.css
+ │   │   ├── index.css
+ │   │   ├── MovieCard.css
+ │   │   └── Navbar.css
+ │   │
+ │   ├── pages/
+ │   │   ├── Favorites.jsx
+ │   │   └── Home.jsx
+ │   │
+ │   ├── services/
+ │   │   └── api.js
+ │   │
+ │   ├── App.jsx
+ │   └── main.jsx
+ │
+ ├── .gitignore
+ ├── eslint.config.js
+ ├── index.html
+ ├── package-lock.json
+ ├── package.json
+ ├── README.md
+ └── vite.config.js
+</pre>
