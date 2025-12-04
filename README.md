@@ -1,4 +1,4 @@
-# Movie Collection App
+# 🎬Movie Collection App
 A modern, responsive React application for browsing, managing, and discovering movies. Built with clean architecture, reusable components, and an intuitive UI.
 
 ## Features
@@ -12,10 +12,11 @@ A modern, responsive React application for browsing, managing, and discovering m
 
 ## Tech Stack
 - React (Hooks + functional components)
-- JavaScript / TypeScript (whichever you’re using—can adjust)
+- JavaScript 
 - CSS / Tailwind / Styled-components
-- Vite / Create React App (let me know which so I can refine)
-- Optional: LocalStorage, Axios, React Router
+- Create React App 
+- React Router
+## 📦 Installation
 <pre>
   # Clone the repository
   git clone https://github.com/xavion-git/ReactMovie
@@ -30,7 +31,7 @@ A modern, responsive React application for browsing, managing, and discovering m
   npm run dev
 </pre>
 
-## Project Sturcture 
+## 📁 Project Sturcture 
 <pre>
   frontend/
  ├── node_modules/
